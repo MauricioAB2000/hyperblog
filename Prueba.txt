@@ -1,6 +1,3 @@
 Este es el primer proyecto con git
 
-Cambio 1 (Se prueba la primera modificación)
-
-Parrafo agregado
-Parrafo nuevo
+Este es un cambio por completo de la ultima modificación
